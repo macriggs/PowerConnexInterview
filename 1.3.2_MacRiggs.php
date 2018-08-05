@@ -35,7 +35,7 @@
             $resultstr .= "+".$i."";
         }
         
-        echo ("$resultstr=$result");
+        echo ("$resultstr=$result\n");
     } 
  
     function testprintnums() {
